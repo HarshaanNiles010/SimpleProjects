@@ -1,0 +1,18 @@
+html{
+    height: 100%;
+}
+body{
+    margin:0;
+    padding:0;
+    /*background-color:#FA9A19;*/
+    background-image: linear-gradient(to bottom right,#FAE619,#19FA76);
+    background-repeat: no-repeat;
+    font-family: verdana;
+}
+.Heading{
+    text-align: justify;
+    font-family: 'Kirang Haerang', cursive;
+}
+.Intro{
+    font-family: 'Rokkitt', serif;
+}
